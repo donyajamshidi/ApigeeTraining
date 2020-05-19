@@ -11,7 +11,7 @@
 	<packaging>pom</packaging>
 
 	<scm>
-		<connection>scm:git:https://github.developer.allianz.io/gateway-integration/apigee-BCK_ABS.git</connection>
+		<connection>scm:git:https://github.com/donyajamshidi/ApigeeTraining/tree/master/apigeeTraining/src/main/java/com/gateway/apigeeTraining/apigee-training-BCK_Unity_CZE_Donya</connection>
 		<tag>HEAD</tag>
 	</scm>
 </project>

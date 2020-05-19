@@ -11,7 +11,7 @@
 	<packaging>pom</packaging>
 
 	<scm>
-		<connection>scm:git:https://github.developer.allianz.io/gateway-integration/apigee-training-MW_RSA_CISL_1_Donya.git</connection>
+		<connection>scm:git:https://github.com/donyajamshidi/ApigeeTraining/tree/master/apigeeTraining/src/main/java/com/gateway/apigeeTraining/apigee-training-MW_RSA_CISL_1_Donya</connection>
 		<tag>HEAD</tag>
 	</scm>
 </project>
