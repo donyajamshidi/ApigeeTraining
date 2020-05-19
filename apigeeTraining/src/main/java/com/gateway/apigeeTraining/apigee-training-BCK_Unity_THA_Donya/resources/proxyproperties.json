@@ -1,0 +1,15 @@
+{
+  "name": "BCK_TRN_Unity_THA_Donya",
+  "type": "backend",
+  "description": "Unity THA CISL Adapter",
+  "displayName": "BCK_TRN_Unity_THA_Donya",
+  "basePath": "/bck/trn/unity/tha",
+  "targetEndpoints": [
+    {
+      "name": "BCK_Unity_THA_Donya",
+      "isDefault": true,
+      "enabledSSL": "true",
+      "authentication": "none"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "MW_TRN_RSA_CISL_1_Donya",
+  "type": "middleware",
+  "description": "Roadside Assistance API CISL 1.x",
+  "displayName": "MW_TRN_RSA_CISL_1_Donya",
+  "basePath": "/TRN/Donya/RSA/cisl1/",
+  "targetEndpoints": [
+    {
+      "name": "BCK_Unity_CZE",
+      "isDefault": false
+    },
+    {
+      "name": "BCK_Unity_THA",
+      "isDefault": false
+    },
+    {
+      "name": "BCK_Unity_RUS",
+      "isDefault": false
+    },
+    {
+      "name": "BCK_Polanet",
+      "isDefault": false
+    },
+    {
+      "name": "BCK_ABS",
+      "isDefault": true
+    }
+  ]
+}

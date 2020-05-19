@@ -1,0 +1,15 @@
+{
+  "name": "BCK_TRN_Unity_RUS_Donya",
+  "type": "backend",
+  "description": "Unity RUS CISL Adapter",
+  "displayName": "BCK_TRN_Unity_RUS_Donya",
+  "basePath": "/bck/trn/unity/rus",
+  "targetEndpoints": [
+    {
+      "name": "BCK_Unity_RUS_Donya",
+      "isDefault": true,
+      "enabledSSL": "true",
+      "authentication": "none"
+    }
+  ]
+}

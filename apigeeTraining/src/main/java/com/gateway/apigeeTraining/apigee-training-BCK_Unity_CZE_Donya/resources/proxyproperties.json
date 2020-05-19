@@ -1,0 +1,15 @@
+{
+  "name": "BCK_TRN_Unity_CZE_Donya",
+  "type": "backend",
+  "description": "Unity CZE CISL Adapter",
+  "displayName": "BCK_TRN_Unity_CZE_Donya",
+  "basePath": "/bck/trn/unity/cze",
+  "targetEndpoints": [
+    {
+      "name": "BCK_Unity_CZE_Donya",
+      "isDefault": true,
+      "enabledSSL": "true",
+      "authentication": "none"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "BCK_TRN_Polanet_Donya",
+  "type": "backend",
+  "description": "Backend Polanet",
+  "displayName": "BCK_TRN_Polanet_Donya",
+  "basePath": "/bck/trn/polanet",
+  "targetEndpoints": [
+    {
+      "name": "BCK_Polanet_Donya",
+      "isDefault": true,
+      "targetPath": "/HexaliteWS",
+      "enabledSSL": "true",
+      "authentication": "oauth2"
+	  "targetTokenPath": "/HexaliteWS/token"
+    }
+  ]
+}

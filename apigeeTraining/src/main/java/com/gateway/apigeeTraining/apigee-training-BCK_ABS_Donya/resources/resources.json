@@ -1,0 +1,10 @@
+[
+{
+    "method": "GET",
+    "path": "/parties"
+  },
+  {
+    "method": "GET",
+    "path": "/search/bills"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "BCK_TRN_ABS_Donya",
+  "type": "backend",
+  "description": "ABS CISL Adapter",
+  "displayName": "BCK_TRN_ABS_Donya",
+  "basePath": "/bck/trn/abs",
+  "targetEndpoints": [
+    {
+      "name": "BCK_ABS_Donya",
+      "isDefault": true,
+      "targetPath": "/CISL/services",
+      "enabledSSL": "true",
+      "authentication": "basic"
+    }
+  ]
+}

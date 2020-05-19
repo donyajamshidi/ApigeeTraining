@@ -1,0 +1,38 @@
+[
+  {
+    "method": "GET",
+    "path": "/parties",
+    "rules": [
+      {
+        "subscriptionCountry": "CZE",
+        "backend": "BCK_Unity_CZE"
+      },
+      {
+        "subscriptionCountry": "THA",
+        "backend": "BCK_Unity_THA"
+      },
+      {
+        "subscriptionCountry": "VNM",
+        "backend": "BCK_Unity_THA"
+      },
+      {
+        "subscriptionCountry": "RUS",
+        "backend": "BCK_Unity_RUS"
+      },
+      {
+        "subscriptionCountry": "POL",
+        "backend": "BCK_Polanet"
+      }
+    ]
+  },
+  {
+    "method": "GET",
+    "path": "/search/bills",
+    "rules": [
+      {
+        "subscriptionCountry": "POL",
+        "backend": "BCK_Polanet"
+      }
+    ]
+  }
+]
